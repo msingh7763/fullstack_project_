@@ -1,1 +1,2 @@
 # fullstack_project_
+<h1>WASTE MANAGEMENT AND RECYCLING PORTAL</h1>
